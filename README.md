@@ -19,3 +19,7 @@
 - LivePage Link: https://jade-tulumba-ccbb90.netlify.app/
 - Repo link: https://github.com/shohan12727/Raw-projects/tree/main/g3-architect-project
 
+# Wev-dev Portfolio (responsive)
+
+- LivePage Link: https://resplendent-bavarois-73ee84.netlify.app/
+- Repo link: https://github.com/shohan12727/Raw-projects/tree/main/web-dev-portfolio
