@@ -23,3 +23,8 @@
 
 - LivePage Link: https://resplendent-bavarois-73ee84.netlify.app/
 - Repo link: https://github.com/shohan12727/Raw-projects/tree/main/web-dev-portfolio
+
+# Influencer Gears (responsive)
+
+- LivePage Link: https://iridescent-melomakarona-183758.netlify.app/
+- Repo link: https://github.com/shohan12727/Raw-projects/tree/main/Influencer-gears-project
