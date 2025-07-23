@@ -1,30 +1,35 @@
 # New year project
 
 - LivePage link: https://neon-phoenix-42d230.netlify.app/
-- Repo link: https://github.com/shohan12727/Raw-projects/tree/main/new-year-projects
+- Repo Link: https://github.com/shohan12727/Raw-projects/tree/main/new-year-projects
 
 # Webflow Agencies (b-12-a-1)
 
 - LivePage link: https://cheerful-haupia-4dfd77.netlify.app/
-- Repo link : https://github.com/shohan12727/ph-a-1  
+- Repo Link : https://github.com/shohan12727/ph-a-1  
 
 
 # Panda commerce
 
 - LivePage Link: https://wonderful-eclair-7c4baf.netlify.app/
-- Repo link : https://github.com/shohan12727/Raw-projects/tree/main/panda-project
+- Repo Link : https://github.com/shohan12727/Raw-projects/tree/main/panda-project
 
 # G-3 Architects (responsive)
 
 - LivePage Link: https://jade-tulumba-ccbb90.netlify.app/
-- Repo link: https://github.com/shohan12727/Raw-projects/tree/main/g3-architect-project
+- Repo Link: https://github.com/shohan12727/Raw-projects/tree/main/g3-architect-project
 
 # Wev-dev Portfolio (responsive)
 
 - LivePage Link: https://resplendent-bavarois-73ee84.netlify.app/
-- Repo link: https://github.com/shohan12727/Raw-projects/tree/main/web-dev-portfolio
+- Repo Link: https://github.com/shohan12727/Raw-projects/tree/main/web-dev-portfolio
 
 # Influencer Gears (responsive)
 
 - LivePage Link: https://iridescent-melomakarona-183758.netlify.app/
-- Repo link: https://github.com/shohan12727/Raw-projects/tree/main/Influencer-gears-project
+- Repo Link: https://github.com/shohan12727/Raw-projects/tree/main/Influencer-gears-project
+
+# Legal Solution (responsive & with tailwind)
+
+- LivePage Link: https://singular-travesseiro-d3621f.netlify.app/
+- Repo Link: https://github.com/shohan12727/Raw-projects/tree/main/Legal-Solution-Project
