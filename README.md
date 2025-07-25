@@ -33,3 +33,8 @@
 
 - LivePage Link: https://singular-travesseiro-d3621f.netlify.app/
 - Repo Link: https://github.com/shohan12727/Raw-projects/tree/main/Legal-Solution-Project
+
+# Flower Market (responsive & with tailwind) - b-12-ass-02
+
+- LivePage Link: https://adorable-kitsune-597b15.netlify.app/
+- Repo link :  https://github.com/shohan12727/B-12-A-02
