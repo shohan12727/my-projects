@@ -38,3 +38,8 @@
 
 - LivePage Link: https://adorable-kitsune-597b15.netlify.app/
 - Repo link :  https://github.com/shohan12727/B-12-A-02
+
+# Tea House (responsive & with tailwind)
+
+- LivePage Link: https://fantastic-sopapillas-3ca0df.netlify.app/
+- Repo link : https://github.com/shohan12727/practise-task/tree/main/Tea-house-projects
