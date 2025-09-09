@@ -49,7 +49,10 @@
 - LivePage Link: https://dreamy-pixie-64bd58.netlify.app/
 - Repo link : https://github.com/shohan12727/Emergency-Services
 
-# Green Earth projects
+# Green Earth project
 
 - LivePage Link: https://green-earth-001.netlify.app/
+### Alternative link:
+-  cloudfare: https://green-earth-001.pages.dev/
+-  surge: https://green-earth-0011.surge.sh/ 
 - Repo link: https://github.com/shohan12727/ASS-06-Green-Earth
