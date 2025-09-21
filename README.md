@@ -61,3 +61,8 @@
 
 - Livepage Link: https://english-janala0011.netlify.app/
 - Repo Link: https://github.com/shohan12727/dom-practices/tree/main/English%20Janala%20project
+
+# All coutry details project
+
+- Livepage Link: https://all-country-001.netlify.app/
+- Repo Link: https://github.com/shohan12727/React-12/tree/main/rest-country 
