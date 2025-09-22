@@ -67,7 +67,7 @@
 - Livepage Link: https://all-country-001.netlify.app/
 - Repo Link: https://github.com/shohan12727/React-12/tree/main/rest-country 
 
-# Awesome bottle project
+# Awesome bottle project (added local storage funtionality)
 
 - LivePage Link: https://awesome-bottle-001.netlify.app/
 - Repo Link: https://github.com/shohan12727/React-12/tree/main/bottle-fetching-project
