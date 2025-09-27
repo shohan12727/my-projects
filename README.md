@@ -77,3 +77,7 @@
 - LivePage Link: https://select-xi-001.netlify.app/
 - Repo Link: https://github.com/shohan12727/React-12/tree/main/Select-XI-project
 
+# Customer care project
+
+- LivePage Link: https://customer-support-zone-001.netlify.app/
+- Repo Link: https://github.com/shohan12727/Customer-Support-Zone
