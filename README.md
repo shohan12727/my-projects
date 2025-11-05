@@ -97,4 +97,7 @@
 - LivePage Link: https://hero-app-store-001.netlify.app/
 - Repo Link: https://github.com/shohan12727/Hero-App-Store?tab=readme-ov-file
 
+# Dragon News
 
+- LivePage Link: https://dragon-news-01.netlify.app/category/1
+- Repo Link: https://github.com/shohan12727/React-12/tree/main/dragon-news-project 
