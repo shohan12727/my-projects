@@ -105,4 +105,4 @@
 # Skill Swap
 
 - LivePage Link: https://skill-swap-0011.netlify.app/
--Repo Link: https://github.com/shohan12727/skill-swap
+- Repo Link: https://github.com/shohan12727/skill-swap
